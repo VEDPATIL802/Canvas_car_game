@@ -3,7 +3,7 @@ ctx = canvas.getContext("2d");
 
 car1_width = 120;
 car1_height = 70;
-car1_image = "";
+car1_image = "Tesla 1 - Copy.jpg";
 car1_x = 10;
 car1_y = 10;
 
